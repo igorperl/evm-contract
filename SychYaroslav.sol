@@ -3,7 +3,7 @@
 pragma solidity ^0.8.0;
 
 
-contract KozakAnatoliy {
+contract SychYaroslav {
 
     address public owner;
     mapping (address => uint) public payments;
