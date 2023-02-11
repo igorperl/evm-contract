@@ -3,7 +3,7 @@
 pragma solidity ^0.8.0;
 
 
-contract VashniiTetiana {
+contract SeredaKateryna {
 
     address public owner;
     mapping (address => uint) public payments;
